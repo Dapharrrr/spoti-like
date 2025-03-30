@@ -4,6 +4,7 @@ admin@spotify.com
 
 admin
 
+et pour les autres mdp c'est le debut de l'adresse email ( ce qui se trouve avant le @, je ne me suis pas cassé la tête) 
 
 # CakePHP Application Skeleton
 
